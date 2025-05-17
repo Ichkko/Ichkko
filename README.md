@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning ... :t-rex: :new_moon_with_face:
   
-    ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://img.atwiki.jp/niconicomugen/attach/1962/7442/BIYO_Utsuho.gif)
+    ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn.donmai.us/original/80/4c/804c69acbd052af2eba23b5da1801788.gif)
  
 
 
