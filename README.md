@@ -13,7 +13,6 @@
 
 ### 🌱 About Me
 
-- 🎓 Currently working on my **bachelor's thesis** — an integrated hotel information system
 - 💻 Building with **Spring Boot / Java / MySQL** (backend) and **Next.js / React / Tailwind** (frontend)
 - 🎨 Also exploring **3D modeling & animation** with Blender
 - 🚀 Interested in food-truck / small business ideas on the side
